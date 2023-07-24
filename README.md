@@ -31,12 +31,12 @@
 | :----------------: | :--------: | :-------------: |
 |     **dyhead**     | **swin-l** |   **0.6558**    |
 | **universeNet101** |   **??**   |   **0.6330**    |
-|    **Yolo v7**     |   **??**   |   **0.5570**    |
+|    **Yolo v7**     | **E-Elan** |   **0.5570**    |
 |        ATSS        |   swin-b   |     0.5876      |
 |    cascade_RCNN    |   swin-b   |     0.5730      |
 |  deformable DETR   |   swin-t   |     0.5262      |
 |     Yolo v5x6      |     ??     |     0.5538      |
-|      yolo v7x      |     ??     |     0.4257      |
+|      yolo v7x      |   E-Elan   |     0.4257      |
 |      FocalNet      |     ??     |     0.5065      |
 
 ## 💾Datasets
