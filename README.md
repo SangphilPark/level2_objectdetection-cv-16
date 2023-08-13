@@ -3,6 +3,13 @@
 우리는 많은 물건이 대량으로 생산되고, 소비되는 시대를 살고 있다. 이러한 문화는 '쓰레기 대란', '매립지 부족'과 같은 여러 사회 문제를 발생시킨다. 그렇기 때문에 올바른 분리수거로 환경 부담을 줄일 필요가 있다. 잘 분리배출 된 쓰레기는 자원으로서 가치를 인정받아 재활용될 수 있기 때문이다. 하지만 잘못 분리배출 되면 그대로 폐기물로 분류되어 매립 또는 소각된다. 따라서 우리는 사진에서 쓰레기를 Detection 하는 모델을 만들어 이러한 문제점을 해결해보고자 한다.
 ![예시 이미지](./images/b.png)
 
+<br />
+
+## 🏅 개인(박상필) Wrap-Up Report   
+- [개인 Wrap-Up Report👑](https://drive.google.com/file/d/1vk7JLY5XnK0TMNopV2yOtb6Fo35zL4na/view?usp=drive_link)
+
+<br />
+
 ## 🧙‍♂️Team
 
 |                                                                           [김지현](https://github.com/codehyunn)                                                                           |                                                                           [박상필](https://github.com/SangphilPark)                                                                           |                                                                           [오동혁](https://github.com/97DongHyeokOH)                                                                           |                                                                           [이상민](https://github.com/dldltkdals)                                                                           |                                                                           [이태순](https://github.com/LTSGOD)                                                                           |
